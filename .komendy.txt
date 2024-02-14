@@ -1,4 +1,1 @@
-html-validate
-{
-  "extends": ["html-validate:recommended"]
-}
+npm exec html-validate *.html
